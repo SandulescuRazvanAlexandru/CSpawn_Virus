@@ -24,5 +24,8 @@ To analyze and run the CSpawn Virus, the following tools and environments were u
 - **Execution Environment:** The standalone version of DosBox was used to safely execute the virus.
 - **Visualization & Analysis:** HxD was employed for in-depth memory visualization and analysis.
 
+### Documentation:
+For a more detailed analysis, please refer to the CSpawn_Virus_Analysis.pdf.
+
 ## Note:
 > Remember, the purpose of this exercise is purely educational and should be executed only within a controlled environment. Misuse of this code or its principles outside of these bounds can result in severe consequences, both legally and ethically.
